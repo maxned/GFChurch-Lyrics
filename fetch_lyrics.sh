@@ -16,8 +16,8 @@ else
 
   git clone https://github.com/maxned/GFChurch-Lyrics.git
 
-  rm -f $eGFC_PATH/*
-  rm -f $rGFC_PATH/*
+  rm -rf $eGFC_PATH/*
+  rm -rf $rGFC_PATH/*
 
   mv GFChurch-Lyrics/eGFC/* $eGFC_PATH/
   mv GFChurch-Lyrics/rGFC/* $rGFC_PATH/
