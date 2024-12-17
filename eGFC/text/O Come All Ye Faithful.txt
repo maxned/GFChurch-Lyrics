@@ -3,7 +3,7 @@ Title: O Come All Ye Faithful
 O come, all ye faithful
 Joyful and triumphant
 O come ye, O come ye to Bethlehem
-Come and behold him
+Come and behold Him
 Born the King of nations
 
 O, come let us adore Him
@@ -34,4 +34,3 @@ Christ the Lord
 O, come let us adore Him
 Christ the Lord
 *  *  *
-
