@@ -1,0 +1,67 @@
+{config_begin}
+Base: True
+Title: All My Boast Is in Jesus
+Counterpart:
+Font Scale Factor: 100
+
+Type: eGFC
+Tags: eGFC, Bilingual, Sunday
+Themes: Boast
+
+PCO: songs/28725143/arrangements/33529604
+{config_end}
+
+{lyrics_begin}
+{Intro}
+
+{Verse 1}
+What wonder of wonders, what love is this
+That Christ would die for me
+His goodness, His merit, His righteousness
+This sinner’s only plea
+O foolish pride, be crucified
+The work is finished
+
+{Chorus}
+All my boast is in Jesus
+All my hope is His love
+And I will glory forever
+In what the cross has done
+
+{Verse 2}
+Now fully forgiven, my life is filled
+With graces undeserved
+For mercy that flowed down that sacred hill
+Let praises now return
+Rise up my soul, and bless the Lord
+Who else is worthy?
+
+{Chorus}
+
+{Bridge}
+O praise the One forever blessed
+Him alone my heart adores
+And I will boast in nothing less
+Than the love of Christ my Lord
+2x
+
+{Verse 3}
+I boast not in riches, in strength or might
+But in the grace of God
+I glory in weakness, to live is Christ
+In plenty or in want
+That I may know, that all may see
+His pow’r within me
+
+{Chorus}
+
+{Chorus 2}
+Now I stand in this freedom
+Ransomed, clean in His sight
+And I cannot be ashamed for
+My boast is Jesus Christ
+My boast is Jesus Christ
+Forever my boast is Jesus Christ
+
+{Outro}
+{lyrics_end}
